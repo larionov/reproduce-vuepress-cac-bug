@@ -1,0 +1,13 @@
+{
+  "name": "reproduce-vuepress-cac-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs"
+  },
+  "devDependencies": {
+    "bili": "^3.4.2",
+    "vuepress": "^1.0.0-alpha.31"
+  }
+}
